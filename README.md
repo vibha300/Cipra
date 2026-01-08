@@ -2,7 +2,7 @@
 
 # Signal Processing & Classification Demo
 
-This notebook demonstrates **signal preprocessing, feature extraction, and classification** for 1D signals (e.g., ECG segments).
+This notebook demonstrates **signal preprocessing, feature extraction, and classification** for PPG signal.
 
 ## Main Steps
 
